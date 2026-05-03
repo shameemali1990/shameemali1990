@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a0c4e0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shameem%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a0c4e0" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+products+that+scale.;Clean+code+%7C+Thoughtful+architecture.;Frontend+%2B+Backend+%3D+Full+Stack.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
@@ -12,11 +12,10 @@
 
 I'm a **Full-Stack Developer** passionate about building robust, scalable web applications with clean architecture and exceptional user experiences. I bridge the gap between frontend polish and backend reliability.
 
-- 🔭 Currently working on **[Your Current Project]**
+- 🔭 Currently working on **[Microless]**
 - 🌱 Learning **[e.g. Rust / WebAssembly / AI integrations]**
 - 💼 Open to **freelance & full-time opportunities**
-- 📫 Reach me at **[your@email.com]**
-- 🌍 Based in **[Your City, Country]**
+- 🌍 Based in **[Dubai, UAE]**
 
 ---
 
@@ -58,14 +57,14 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shameemali1990&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameemali1990&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shameemali1990&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -75,9 +74,8 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shameemali1990)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 </div>
@@ -85,7 +83,7 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2c5364&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shameemali1990&label=Profile+Views&color=2c5364&style=flat" alt="Profile Views" />
 
   <br/>
   <sub>⭐ Star my repos if you find them useful!</sub>
