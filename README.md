@@ -53,7 +53,3 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contact Me
-
-* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-* 🌐 Portfolio: (add later)
