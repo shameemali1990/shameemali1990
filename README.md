@@ -91,14 +91,7 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shameemali1990&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameemali1990&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
-
-</div>
-
+ 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shameemali1990&theme=github-dark-blue&hide_border=true)
@@ -113,7 +106,7 @@ I'm a **Full-Stack Developer** passionate about building robust, scalable web ap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shameemali1990)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR_BEHANCE)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/shameemali1990)
 </div>
 
 ---
