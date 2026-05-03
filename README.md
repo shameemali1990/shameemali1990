@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Shameem Ali
+
+💻 Web & Mobile App Designer
+🚀 Passionate about building clean UI & functional systems
+📍 Based in UAE
+
+---
+
+## 🧠 About Me
+
+* 🎨 UI/UX Designer & Developer
+* ⚙️ Working with Laravel, WordPress, APIs
+* 📈 Focused on eCommerce & real-world solutions
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 PHP / Laravel
+* 🌐 HTML / CSS / JavaScript
+* 🧩 WordPress
+* 🗄️ MySQL
+
+---
+
+## 🚀 Projects
+
+* 📊 Attendance System (Laravel)
+* 🛒 eCommerce Solutions (Microless related work)
+* 🌍 Dynamic country-based systems
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shameemali1990\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 Portfolio: (add later)
