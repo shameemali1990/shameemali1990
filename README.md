@@ -52,4 +52,6 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=shameemali1990\&show_icons=true)
 
 ---
+![Streak](https://streak-stats.demolab.com/?user=shameemali1990)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shameemali1990)
