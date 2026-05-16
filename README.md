@@ -13,7 +13,7 @@
 I'm a **Designer cum Developer** passionate about building robust, scalable web applications with clean architecture and exceptional user experiences. I bridge the gap between frontend polish and backend reliability.
 
 - 🔭 Currently working on **[Microless]**
-- 🌱 Learning **[e.g. Rust / WebAssembly / AI integrations]**
+- 🌱 Learning **[Prompt Engineering]**
 - 💼 Open to **freelance & full-time opportunities**
 - 🌍 Based in **[Dubai, UAE]**
 
