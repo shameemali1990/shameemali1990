@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shameem%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a0c4e0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shameem%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Designer%20&%20Developer&descAlignY=58&descSize=20&descColor=a0c4e0" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+products+that+scale.;Clean+code+%7C+Thoughtful+architecture.;Frontend+%2B+Backend+%3D+Full+Stack.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+products+that+scale.;Clean+code+%7C+Thoughtful+architecture.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-I'm a **Full-Stack Developer** passionate about building robust, scalable web applications with clean architecture and exceptional user experiences. I bridge the gap between frontend polish and backend reliability.
+I'm a **Designer cum Developer** passionate about building robust, scalable web applications with clean architecture and exceptional user experiences. I bridge the gap between frontend polish and backend reliability.
 
 - 🔭 Currently working on **[Microless]**
 - 🌱 Learning **[e.g. Rust / WebAssembly / AI integrations]**
